@@ -29,18 +29,6 @@
 		{
 			"Name": "LiveLink",
 			"Enabled": true
-		},
-		{
-			"Name": "Anima4DUnrealPlugin",
-			"Enabled": true
-		},
-		{
-			"Name": "UEAnimaLoader",
-			"Enabled": true
-		},
-		{
-			"Name": "SERIALCOM",
-			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
