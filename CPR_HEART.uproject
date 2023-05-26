@@ -29,6 +29,10 @@
 		{
 			"Name": "LiveLink",
 			"Enabled": true
+		},
+		{
+			"Name": "SERIALCOM",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
