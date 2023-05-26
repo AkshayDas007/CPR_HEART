@@ -33,6 +33,14 @@
 		{
 			"Name": "SERIALCOM",
 			"Enabled": true
+		},
+		{
+			"Name": "UEAnimaLoader",
+			"Enabled": true
+		},
+		{
+			"Name": "Anima4DUnrealPlugin",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
